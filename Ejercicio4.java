@@ -23,6 +23,7 @@ public class Ejercicio4 {
 		System.out.println("Has introducido el nÃºmero " +num );
 		System.out.println("El doble es "+2*num);
 		System.out.println("El triple es "+3*num);
+		System.out.println("El número es "+num +" si quieres introducir otro número reinicia el programa. ");
 		
 	}
 
